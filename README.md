@@ -20,6 +20,9 @@ Groups are saved by tab id in the plugin's `data.json` and restored after restar
 
 Search for **Chrome Tab Groups** in Settings → Community plugins, or copy `main.js`, `manifest.json` and `styles.css` from the latest release into `<vault>/.obsidian/plugins/chrome-tab-groups/`.
 
+## Feedback and updates
+
+To follow new features, send feedback or keep up with progress, follow me on Twitter: [@Matsurimywaifu](https://x.com/Matsurimywaifu).
 ---
 
 # Chrome Tab Groups（中文）
@@ -33,3 +36,7 @@ Search for **Chrome Tab Groups** in Settings → Community plugins, or copy `mai
 - 所有操作都有命令，不带默认快捷键，在「设置 → 快捷键」里自己绑。
 
 分组按标签页 id 存在 `data.json` 里，重启后恢复。
+
+## 反馈与后续
+
+想追踪后续功能、反馈问题、关注后续进展，欢迎关注我的 Twitter：[@Matsurimywaifu](https://x.com/Matsurimywaifu)。
