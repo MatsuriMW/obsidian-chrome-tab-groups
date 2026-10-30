@@ -2,6 +2,12 @@
 
 Chrome-style tab management for Obsidian (desktop only). The interface is in Chinese.
 
+**Contents**
+
+- [Features](#features)
+- [Installation](#installation)
+- [Feedback and updates](#feedback-and-updates)
+
 ## Features
 
 - **Tab groups**: add tabs to a named, colored group. The group chip sits on the left of the group's first tab.
@@ -28,6 +34,13 @@ To follow new features, send feedback or keep up with progress, follow me on Twi
 # Chrome Tab Groups（中文）
 
 仿 Chrome 的标签页管理（仅桌面端）。
+
+**目录**
+
+- [功能](#功能)
+- [反馈与后续](#反馈与后续)
+
+## 功能
 
 - **标签页分组**：给组命名、选颜色；色块嵌在组内第一个标签页左侧。点色块折叠 / 展开，右键色块编辑（名称、颜色、在组中新建、取消组合、关闭组、移至新窗口），拖色块把整组挪到别处。
 - **照 Chrome 的规则**：一个组只在一个标签栏里，组内标签页始终挨在一起；拖出组外 / 拖到别的分屏或窗口就退组，拖进组的中间就进组。「在右侧新建」、复制标签页、⌘点击链接在新标签页打开都进同一组；⌘T 和「＋」新建的不进组。
