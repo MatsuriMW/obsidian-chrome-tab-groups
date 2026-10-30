@@ -2,6 +2,8 @@
 
 Chrome-style tab management for Obsidian (desktop only). The interface is in Chinese.
 
+![A blue group, Japan trip, with three tabs, and a collapsed green group, Release, showing only its chip.](https://raw.githubusercontent.com/MatsuriMW/obsidian-chrome-tab-groups/main/docs/screenshot.png)
+
 **Contents**
 
 - [Features](#features)
@@ -34,6 +36,8 @@ To follow new features, send feedback or keep up with progress, follow me on Twi
 # Chrome Tab Groups（中文）
 
 仿 Chrome 的标签页管理（仅桌面端）。
+
+![蓝色的「Japan trip」组有三个标签页；绿色的「Release」组折起来了，只剩色块。](https://raw.githubusercontent.com/MatsuriMW/obsidian-chrome-tab-groups/main/docs/screenshot.png)
 
 **目录**
 
